@@ -1,0 +1,43 @@
+{
+	"adminAccount" :
+	{
+		  "firstName": "Pooja",
+		  "lastName": "Mane",
+		  "email": "poojamane33@gmail.com",
+		  "password": "Pooja@1114",
+		  "role": "ADMIN",
+		  "mobileNumber": "9080901122"
+	},
+	"addCategory" :
+	{
+		"categoryName" : "Mobile",
+		"description" : "iphone 15 mobile phone"
+	},
+	"addProducts":
+	{
+		
+		  "name": "Iphone 14 Pro",
+		  "price": 91000,
+		  "description": "Iphone 14 Pro - black color",
+		  "stock": 10,
+		  "categoryId": 10,
+		  "expDate" : "2025-12-30"
+	},
+	"updateProducts":
+	{
+		
+		  "name": "Iphone 14 Pro",
+		  "price": 78000,
+		  "description": "Iphone 14 Pro - White color",
+		  "stock": 6,
+		  "categoryId": 10,
+		  "expDate" : "2025-12-30"
+	},
+	"uploadImage" :
+	{
+		"imageFile" : "C://Users//praf0//OneDrive//Desktop//Full Stack Testing SDET Batch 1st March 2025//API Automation//BDD API automation Workspace//EcommerceApi//Images//Iphone 14 Pro.jpeg"
+	}
+	
+	
+	
+}

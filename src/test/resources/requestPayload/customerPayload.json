@@ -1,0 +1,20 @@
+{
+
+	"customerAccount" :
+	{
+		  "firstName": "Rahul",
+		  "lastName": "Kumar",
+		  "email": "rahulkumar14@gmail.com",
+		  "password": "rahul@1114",
+		  "role": "CUSTOMER",
+		  "mobileNumber": "9080901133"
+	},
+	"addToCart" :
+	{
+		
+		  "quantity": 1,
+		  "userId": 1,
+		  "productId": 1
+		
+	}
+}
